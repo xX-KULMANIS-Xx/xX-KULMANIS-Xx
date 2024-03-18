@@ -1,16 +1,18 @@
-### Hi there 👋
+HELLO PERSON!
+-------------
+YOU HAVE DOWNLOADED FROM MY REPO!!!
+-----------------------------------
+My name is Zintis. I am a student at WTCS.
 
-<!--
-**xX-KULMANIS-Xx/xX-KULMANIS-Xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specifically, I am in ICS3U (comp-sci) where we are learning HTML and other cool stuff.
 
-Here are some ideas to get you started:
+Fun fact, my fellow classmate Owen Powell is actually my biological father!!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(fact-checked by real american patriots)
+
+my school email is:
+
+zintis.kalins@s*****t.tdsb.on.ca
+
+(censored for my privacy)
+if you dont know what goes in the blank, than you probably shouldn't be emailing me.
