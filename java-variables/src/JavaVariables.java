@@ -13,6 +13,6 @@ public class JavaVariables {
         //divide allowance by cost of a battlepass
                 double battlepassNum = allowance / battlepass;
         //print the number of battlepasses i can buy
-                System.out.println("I can buy " + Math.round(battlepassNum) + " battlepasses with an allowance of " + allowance + " dollars.");
+                System.out.println("I can buy " + (int) battlepassNum + " battlepasses with an allowance of " + allowance + " dollars.");
                 }
 }
