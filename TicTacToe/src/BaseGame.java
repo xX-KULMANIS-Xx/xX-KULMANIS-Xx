@@ -14,6 +14,6 @@ public class BaseGame {
         player1 = JOptionPane.showInputDialog("player 1 name:");
         player2 = JOptionPane.showInputDialog("player 2 name:");
 
-        
+        //test commit
     }
 }
